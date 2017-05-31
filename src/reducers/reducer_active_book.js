@@ -1,5 +1,5 @@
 
-//Reducers are only every called when an action occurs
+//Reducers are only ever called when an action occurs
 
 // State argument is not application state,
 // only the state this reducer is responsible for
